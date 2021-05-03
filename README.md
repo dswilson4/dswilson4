@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... security research!
+- 🔭 I’m currently working on ... 
